@@ -1,0 +1,8 @@
+.next/
+node_modules/
+coverage/
+dist/
+.pnpm-store/
+npm-debug.log*
+.env
+build/
